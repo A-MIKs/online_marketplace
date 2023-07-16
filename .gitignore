@@ -1,0 +1,4 @@
+puddle-main/
+venv/
+.vscode/
+db.sqlite3
